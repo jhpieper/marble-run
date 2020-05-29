@@ -28,3 +28,11 @@ Assemble pole-\<left|right\> + pole-base + lock-\<style\>
 Customize the look by using different colors for the parts.
 ### The Whirlpool!
 The ball goes in circles until it drops through the center.  Mount level for best effect.
+
+## More to come!
+We are planning to add more tracks to the collection.  Here are a few things we are already working on:
+* funnel
+* goal (ball storage)
+* diverter
+* looping
+* zig-zag track
