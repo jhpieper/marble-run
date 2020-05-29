@@ -21,7 +21,7 @@ rotate(a=[0,90,0]) { // rotate for printing (magnet side down).
 
     // Magnet holes
     for (pos = [10:30:length]) {
-      translate([9.8, -3.5, pos]) rotate(a=[0,90,0]) cylinder(h=3, r=5.5, center=false);
+      translate([9.8, -3.5, pos]) rotate(a=[0,90,0]) cylinder(h=3, r=magnet_radius);
     }
 }
 }

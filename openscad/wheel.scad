@@ -1,10 +1,8 @@
+// Wheel
 number_of_blades = 7;
-blade_length = 30;
-
+blade_length = 40;
 
 $fn=100;
-
-// Wheel
 difference() {
   union() {
     cylinder(h=1, r=15);  // bottom disc

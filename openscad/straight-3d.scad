@@ -1,4 +1,4 @@
-length=190;  // Good sizes: 50, 110, 200 (in general: 5 + N*30).
+length=140;  // Good sizes: 50, 110, 140, 200 (in general: 50 + N*30).
 magnet_radius = 5.5;  // Use 10x2mm magnets. 5.5 radius is good for hotgluing.  Use ~5 when just pushing magnets in.
 
 $fn=100;
@@ -16,10 +16,8 @@ rotate(a=[0,90,0]) { // rotate for printing (magnet side down).
     translate([0,4,-1]) cube([11,25,length+2]);
     translate([0,0,-1]) cube([9,25,length+2]);
 
-    // Magnet holes
-    step = (length-10) / ((length) / 30);
-    echo (step);
-    for (pos = [10:step:length-9]) {
+    // magnets
+    for (pos = [10:30:length]) {
       translate([9.8, -3.5, pos]) rotate(a=[0,90,0]) cylinder(h=3, r=magnet_radius);
     }
 }
