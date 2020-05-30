@@ -11,7 +11,7 @@ Make it your own by deciding which parts to print or even customizing them using
 <tr><td>
 <h3>Straight</h3>
 Just a straight run. Available in many lengths from 50mm to 200mm.
-</td><td width=220px>
+</td><td width=230px>
 <img align="left" height=100 src="/images/straight.jpg">
 </td></tr><tr><td>
 <h3>Curve</h3>
