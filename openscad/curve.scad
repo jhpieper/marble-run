@@ -20,4 +20,6 @@ difference (){
   // magnets
   translate([-10, -32, -9.8]) rotate(a=[0,180,90]) cylinder(h=3, r=magnet_radius);
   translate([-32, -10, -9.8]) rotate(a=[0,180,90]) cylinder(h=3, r=magnet_radius);
+  translate([-23.5, -23.5, -9.8]) rotate(a=[0,180,90]) cylinder(h=3, r=magnet_radius);
+  
 }
