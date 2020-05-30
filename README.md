@@ -18,6 +18,11 @@ A 90 degree curved piece.  Great to catch a falling ball and getting it onto the
 </td><td>
 <img align="left" height=100 src="/images/curve.jpg">  
 </td></tr><tr><td>
+<h3>The Tunnel</h3>
+A straight pipe that hides the ball.  Available in multiple lengths.
+</td><td>
+<img align="left" height=100 src="/images/tunnel.jpg">  
+</td></tr><tr><td>
 <h3>The Drop</h3>
 A classic way to drop the ball onto the next track.
 Spin it as the ball goes past.  Can be used to launch another ball that is stored in.
