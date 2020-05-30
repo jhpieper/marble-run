@@ -11,7 +11,8 @@ Make it your own by deciding which parts to print or even customizing them using
 <tr><td>
 <h3>Straight</h3>
 Just a straight run. Available in many lengths from 50mm to 200mm.
-</td><td width=200px><img align="right" height=100 src="/images/straight.jpg">
+</td><td width=215px>
+<img align="left" height=100 src="/images/straight.jpg">
 </td></tr><tr><td>
 <h3>Curve</h3>
 A 90 degree curved piece.  Great to catch a falling ball and getting it onto the next track.
