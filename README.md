@@ -9,28 +9,33 @@ Make it your own by deciding which parts to print or even customizing them using
 ## The Tracks
 ### Straight
 <p>
-<img align="right" height=100 src="/images/straight.jpg">
+<img align="left" height=100 src="/images/straight.jpg">
 Just a straight run. Available in many lengths from 50mm to 200mm.
 </p>
 
 ### Curve
 <p>
+<img align="left" height=100 src="/images/curve.jpg">  
 A 90 degree curved piece.  Great to catch a falling ball and getting it onto the next track.
-![](/images/curve.jpg)
 </p>
 
 ### The Drop
+<p>
+<img align="left" height=100 src="/images/drop.jpg">  
 A classic way to drop the ball onto the next track.
 Spin it as the ball goes past.  Can be used to launch another ball that is stored in.
-![](/images/drop.jpg)
+</p>
 
 ### The Wheel
+<p>
+<img align="left" height=100 src="/images/wheel.jpg">  
 Spins as the ball goes past.  Get creative and use it to launch another ball that is stored in the wheel.  Or kick a ball placed on a track above into action.
 
 Available in various sizes and blade counts.  Some assembly required: wheel-\<-size\>-\<bladecount\> + wheel-base + lock-\<style\>.
 
 Customize the look by using different colors for the parts.
-![](/images/wheel.jpg)
+</p>
+
 ### The Pole
 Catch a ball and vault it to the next track.
 
