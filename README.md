@@ -23,27 +23,29 @@ A classic way to drop the ball onto the next track.
 Spin it as the ball goes past.  Can be used to launch another ball that is stored in.
 </td><td>
 <img align="left" height=100 src="/images/drop.jpg">  
-</td><tr></table>
-### The Wheel
-<p>
-<img align="left" height=100 src="/images/wheel.jpg">  
+</td></tr><tr><td>
+<h3>The Wheel</h3>
 Spins as the ball goes past.  Get creative and use it to launch another ball that is stored in the wheel.  Or kick a ball placed on a track above into action.
 
 Available in various sizes and blade counts.  Some assembly required: wheel-\<-size\>-\<bladecount\> + wheel-base + lock-\<style\>.
 
 Customize the look by using different colors for the parts.
-</p>
-
-### The Pole
+</td><td><img align="left" height=100 src="/images/wheel.jpg">  
+</td></tr><tr><td>
+<h3>The Pole</h3>
 Catch a ball and vault it to the next track.
 
 Assemble pole-\<left|right\> + pole-base + lock-\<style\>
 
 Customize the look by using different colors for the parts.
-![](/images/pole.jpg)
-### The Whirlpool!
+</td><td><img align="left" height=100 src="/images/pole.jpg">  
+</td></tr><tr><td>
+
+<h3>The Whirlpool!</h3>
 The ball goes in circles until it drops through the center.  Mount level for best effect.
-![](/images/whirlpool.jpg)
+</td><td><img align="left" height=100 src="/images/whirlpool.jpg">  
+</td></tr>
+</table>
 
 ## More to come!
 We are planning to add more tracks to the collection.  Here are a few things we are already working on:
