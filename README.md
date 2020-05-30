@@ -10,6 +10,7 @@ Make it your own by deciding which parts to print or even customizing them using
 ### Straight
 <img align="right" height=100 src="/images/straight.jpg">
 Just a straight run. Available in many lengths from 50mm to 200mm.
+<br>
 ### Curve
 A 90 degree curved piece.  Great to catch a falling ball and getting it onto the next track.
 ![](/images/curve.jpg)
