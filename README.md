@@ -60,3 +60,14 @@ We are planning to add more tracks to the collection.  Here are a few things we 
 * diverter
 * looping
 * zig-zag track
+
+## Magnets
+All tracks are designed for round 10mm x 2mm magnets.  
+They can easily be ordered from [Amazon](https://www.amazon.com/gp/product/B0753ZPBLQ/) or other retailers.
+
+Each track needs at least two magnets, but many require three or even more.
+
+The mounting holes were initially designed to be tight enough to just push the magnets in, 
+but that turned out to be problematic.  It was difficult to get the magnets to be flat rather than pivoting.  Magnets would regularly fall out, etc.
+
+In the end I switched to securing the magnets with hot glue.  The holes are slightly wider to easily allow the magnet to be pushed into the glue.  Hot glue is also excellent to make the back of the track less smooth if tracks slide on the board when marbles pass.  Just spread a thin layer of hotglue all along the back and let it cool.  The resulting surface has a nice grip.
