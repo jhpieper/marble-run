@@ -8,12 +8,15 @@ Make it your own by deciding which parts to print or even customizing them using
 
 ## The Tracks
 ### Straight
+<p>
 <img align="right" height=100 src="/images/straight.jpg">
 Just a straight run. Available in many lengths from 50mm to 200mm.
-<br>
+</p>
 ### Curve
+<p>
 A 90 degree curved piece.  Great to catch a falling ball and getting it onto the next track.
 ![](/images/curve.jpg)
+</p>
 ### The Drop
 A classic way to drop the ball onto the next track.
 Spin it as the ball goes past.  Can be used to launch another ball that is stored in.
