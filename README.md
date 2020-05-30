@@ -7,25 +7,22 @@ A collection of marble run tracks that mount onto any magnetic surface.
 Make it your own by deciding which parts to print or even customizing them using the included openscad files!
 
 ## The Tracks
-### Straight
-<p>
-<img align="left" height=100 src="/images/straight.jpg">
+<table border=0 padding=3 width=100%>
+<tr><td>
+<h3>Straight</h3>
 Just a straight run. Available in many lengths from 50mm to 200mm.
-</p>
-
-### Curve
-<p>
+</td<td><img align="right" height=100 src="/images/straight.jpg">
+</td></tr><tr><td>
 <img align="left" height=100 src="/images/curve.jpg">  
+</td><td><h3>Curve</h3>
 A 90 degree curved piece.  Great to catch a falling ball and getting it onto the next track.
-</p>
-
-### The Drop
-<p>
-<img align="left" height=100 src="/images/drop.jpg">  
+</td></tr><tr><td>
+<h3>The Drop</h3>
 A classic way to drop the ball onto the next track.
 Spin it as the ball goes past.  Can be used to launch another ball that is stored in.
-</p>
-
+</td><td>
+<img align="left" height=100 src="/images/drop.jpg">  
+</td><tr></table>
 ### The Wheel
 <p>
 <img align="left" height=100 src="/images/wheel.jpg">  
