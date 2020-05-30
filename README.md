@@ -21,7 +21,7 @@ A 90 degree curved piece.  Great to catch a falling ball and getting it onto the
 <h3>The Tunnel</h3>
 A straight pipe that hides the ball.  Available in multiple lengths.
 </td><td>
-<img align="left" height=100 src="/images/tunnel.jpg">  
+<img align="left" height=70 src="/images/tunnel.jpg">  
 </td></tr><tr><td>
 <h3>The Drop</h3>
 A classic way to drop the ball onto the next track.
@@ -43,7 +43,7 @@ Catch a ball and vault it to the next track.
 Assemble pole-\<left|right\> + pole-base + lock-\<style\>
 
 Customize the look by using different colors for the parts.
-</td><td><img align="left" height=100 src="/images/pole.jpg">  
+</td><td><img align="left" height=150 src="/images/pole.jpg">  
 </td></tr><tr><td>
 
 <h3>The Whirlpool!</h3>
