@@ -46,17 +46,20 @@ Assemble pole-\<left|right\> + pole-base + lock-\<style\>
 Customize the look by using different colors for the parts.
 </td><td><img align="left" height=150 src="/images/pole.jpg">  
 </td></tr><tr><td>
-
 <h3>The Whirlpool!</h3>
 The ball goes in circles until it drops through the center.  Mount level for best effect.
 </td><td><img align="left" height=100 src="/images/whirlpool.jpg">  
+</td></tr>
+</td></tr><tr><td>
+<h3>Tray</h3>
+The tray is a great way to finish the run and to store extra marbles. 
+</td><td><img align="left" height=100 src="/images/tray.jpg">  
 </td></tr>
 </table>
 
 ## More to come!
 We are planning to add more tracks to the collection.  Here are a few things we are already working on:
 * funnel
-* goal (ball storage)
 * diverter
 * looping
 * zig-zag track
