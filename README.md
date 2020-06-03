@@ -49,7 +49,11 @@ Customize the look by using different colors for the parts.
 <h3>The Whirlpool!</h3>
 The ball goes in circles until it drops through the center.  Mount level for best effect.
 </td><td><img align="left" height=100 src="/images/whirlpool.jpg">  
-</td></tr>
+</td></tr><tr><td>
+<h3>The Looping</h3>
+This one is tricky!  Mount it at the right angle, extend the incoming ramp and the marble will
+successfully perform a looping.
+</td><td><img align="left" height=100 src="/images/looping.jpg">  
 </td></tr><tr><td>
 <h3>Tray</h3>
 The tray is a great way to finish the run and to store extra marbles. 
@@ -61,7 +65,6 @@ The tray is a great way to finish the run and to store extra marbles.
 We are planning to add more tracks to the collection.  Here are a few things we are already working on:
 * funnel
 * diverter
-* looping
 * zig-zag track
 
 ## Magnets
