@@ -14,6 +14,11 @@ Just a straight run. Available in many lengths from 50mm to 200mm.
 </td><td width=230px>
 <img align="left" height=100 src="/images/straight.jpg">
 </td></tr><tr><td>
+<h3>The Wave</h3>
+This track makes things a bit more interesting.
+</td><td width=230px>
+<img align="left" height=100 src="/images/wave.jpg">
+</td></tr><tr><td>
 <h3>Curve</h3>
 A 90 degree curved piece.  Great to catch a falling ball and getting it onto the next track.
 </td><td>
@@ -67,9 +72,7 @@ The tray is a great way to finish the run and to store extra marbles.
 
 ## More to come!
 We are planning to add more tracks to the collection.  Here are a few things we are already working on:
-* funnel
 * diverter
-* zig-zag track
 
 ## Magnets
 All tracks are designed for round 10mm x 2mm magnets.  
