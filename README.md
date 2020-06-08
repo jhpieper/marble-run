@@ -15,7 +15,7 @@ Just a straight run. Available in many lengths from 50mm to 200mm.
 <img align="left" height=100 src="/images/straight.jpg">
 </td></tr><tr><td>
 <h3>The Wave</h3>
-This track makes things a bit more interesting. Print with supports
+This track makes things a bit more interesting. Print with supports.
 </td><td width=230px>
 <img align="left" height=100 src="/images/wave.jpg">
 </td></tr><tr><td>
