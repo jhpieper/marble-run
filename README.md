@@ -55,6 +55,10 @@ This one is tricky!  Mount it at the right angle, extend the incoming ramp and t
 successfully perform a looping.
 </td><td><img align="left" height=100 src="/images/looping.jpg">  
 </td></tr><tr><td>
+<h3>Funnel</h3>
+It's a funnel. 
+</td><td><img align="left" height=100 src="/images/funnel.jpg">  
+</td></tr><tr><td>
 <h3>Tray</h3>
 The tray is a great way to finish the run and to store extra marbles. 
 </td><td><img align="left" height=100 src="/images/tray.jpg">  
