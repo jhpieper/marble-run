@@ -36,9 +36,9 @@ Spin it as the ball goes past.  Can be used to launch another ball that is store
 <img align="left" height=100 src="/images/drop.jpg">  
 </td></tr><tr><td>
 <h3>Lombard Street</h3>
-A san Franciso landmark for your marble.  Print with supports.
+A San Franciso landmark for your marble.  Print with supports.
 </td><td>
-<img align="left" height=70 src="/images/lombard-street.jpg">  
+<img align="left" height=100 src="/images/lombard-street.jpg">  
 </td></tr><tr><td>
 <h3>The Wheel</h3>
 Spins as the ball goes past.  Get creative and use it to launch another ball that is stored in the wheel.  Or kick a ball placed on a track above into action.
