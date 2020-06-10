@@ -65,7 +65,7 @@ The ball goes in circles until it drops through the center.  Mount level for bes
 <h3>The Looping</h3>
 This one is tricky!  Mount it at the right angle, extend the incoming ramp and the marble will
 successfully perform a looping.
-</td><td><img align="left" height=100 src="/images/looping.jpg">  
+</td><td><img align="left" height=100 src="/images/looping.gif">  
 </td></tr><tr><td>
 <h3>Funnel</h3>
 It's a funnel. 
