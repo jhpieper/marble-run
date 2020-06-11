@@ -8,46 +8,47 @@ Make it your own by deciding which parts to print or even customizing them using
 
 ## The Tracks
 <table border=0 padding=3 width=100%>
-<tr><td>
+<tr><td valign="top">
 <h3>Straight</h3>
 Just a straight run. Available in many lengths from 50mm to 200mm.
-</td><td width=230px>
-<img align="left" height=100 src="/images/straight.jpg">
-</td></tr><tr><td>
+</td><td width=230px align="center">
+<img width="195" src="/images/straight.jpg">
+</td></tr><tr><td valign="top">
 <h3>The Wave</h3>
 This track makes things a bit more interesting. Print with supports.
-</td><td width=230px>
-<img align="left" height=100 src="/images/wave.jpg">
-</td></tr><tr><td>
+</td><td align="center">
+<img width="195" src="/images/wave.jpg">
+</td></tr><tr><td valign="top">
 <h3>Curve</h3>
 A 90 degree curved piece.  Great to catch a falling ball and getting it onto the next track.
-</td><td>
-<img align="left" height=100 src="/images/curve.jpg">  
-</td></tr><tr><td>
+</td><td align="center">
+<img width="195" src="/images/curve.jpg">  
+</td></tr><tr><td valign="top">
 <h3>The Tunnel</h3>
 A straight pipe that hides the ball.  Available in multiple lengths.
-</td><td>
-<img align="left" height=100 src="/images/tunnel.jpg">  
-</td></tr><tr><td>
+</td><td align="center">
+<img width="195" src="/images/tunnel.jpg">  
+</td></tr><tr><td valign="top">
 <h3>The Drop</h3>
 A classic way to drop the ball onto the next track.
 Spin it as the ball goes past.  Can be used to launch another ball that is stored in.
-</td><td>
-<img align="left" height=100 src="/images/drop.jpg">  
-</td></tr><tr><td>
+</td><td align="center">
+<img width="195" src="/images/drop.jpg">  
+</td></tr><tr><td valign="top">
 <h3>Lombard Street</h3>
 A San Franciso landmark for your marble.  Print with supports.
-</td><td>
-<img align="left" height=100 src="/images/lombard-street.jpg">  
-</td></tr><tr><td>
+</td><td align="center">
+<img width="195" src="/images/lombard-street.jpg">  
+</td></tr><tr><td valign="top">
 <h3>The Wheel</h3>
 Spins as the ball goes past.  Get creative and use it to launch another ball that is stored in the wheel.  Or kick a ball placed on a track above into action.
 
 Available in various sizes and blade counts.  Some assembly required: wheel-\<-size\>-\<bladecount\> + wheel-base + lock-\<style\>.
 
 Customize the look by using different colors for the parts.
-</td><td><img align="left" height=100 src="/images/wheel.jpg">  
-</td></tr><tr><td>
+</td><td align="center">
+<img width="195" src="/images/wheel.jpg">  
+</td></tr><tr><td valign="top">
 <h3>The Pole</h3>
 Catch a ball and vault it to the next track.
 
@@ -56,24 +57,29 @@ Assemble pole-\<left|right\> + pole-base + lock-\<style\>
 Customize the look by using different colors for the parts.
 
 The picture shows several design iterations.
-</td><td><img align="left" height=100 src="/images/pole.jpg">  
-</td></tr><tr><td>
+</td><td align="center">
+<img width="195" src="/images/pole.jpg">  
+</td></tr><tr><td valign="top">
 <h3>The Whirlpool!</h3>
 The ball goes in circles until it drops through the center.  Mount level for best effect.
-</td><td><img align="left" height=100 src="/images/whirlpool.jpg">  
-</td></tr><tr><td>
+</td><td align="center">
+<img width="195" src="/images/whirlpool.jpg">  
+</td></tr><tr><td valign="top">
 <h3>The Looping</h3>
 This one is tricky!  Mount it at the right angle, extend the incoming ramp and the marble will
 successfully perform a looping.
-</td><td><img align="left" height=100 src="/images/looping.gif">  
-</td></tr><tr><td>
+</td><td align="center">
+<img width="195" src="/images/looping.gif">  
+</td></tr><tr><td valign="top">
 <h3>Funnel</h3>
 It's a funnel. 
-</td><td><img align="left" height=100 src="/images/funnel.jpg">  
-</td></tr><tr><td>
+</td><td align="center">
+<img width="195" src="/images/funnel.jpg">  
+</td></tr><tr><td valign="top">
 <h3>Tray</h3>
 The tray is a great way to finish the run and to store extra marbles. 
-</td><td><img align="left" height=100 src="/images/tray.jpg">  
+</td><td align="center">
+<img width="195" src="/images/tray.jpg">  
 </td></tr>
 </table>
 
