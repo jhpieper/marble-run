@@ -97,3 +97,28 @@ The mounting holes were initially designed to be tight enough to just push the m
 but that turned out to be problematic.  It was difficult to get the magnets to be flat rather than pivoting.  Magnets would regularly fall out, etc.
 
 In the end I switched to securing the magnets with hot glue.  The holes are slightly wider to easily allow the magnet to be pushed into the glue.  Hot glue is also excellent to make the back of the track less smooth if tracks slide on the board when marbles pass.  Just spread a thin layer of hotglue all along the back and let it cool.  The resulting surface has a nice grip.
+
+## MIT License
+Copyright (c) 2020 Jan Pieper (jhpieper.github@gmail.com)
+
+This code is hosted at github.com/jhpieper/marble-run under the MIT license.
+The 3D objects (STL files) are also hosted on thingiverse.com under
+the Creative Commons Attribution 4.0 International (CC BY 4.0) license.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to
+deal in the Software without restriction, including without limitation the
+rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+sell copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
