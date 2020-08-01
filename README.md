@@ -36,7 +36,6 @@ A straight pipe that hides the ball.  Available in multiple lengths.
 
 <h3>The Drop</h3>
 A classic way to drop the ball onto the next track.
-Spin it as the ball goes past.  Can be used to launch another ball that is stored in.
 </td><td align="center">
 <img width="195" src="/images/drop.jpg">  
 </td></tr><tr><td valign="top">
