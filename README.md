@@ -41,7 +41,7 @@ A classic way to drop the ball onto the next track.
 </td></tr><tr><td valign="top">
 
 <h3>Lombard Street</h3>
-A San Franciso landmark for your marble.  Print with supports.
+A San Francisco landmark for your marble.  Print with supports.
 </td><td align="center">
 <img width="195" src="/images/lombard-street.jpg">  
 </td></tr><tr><td valign="top">
