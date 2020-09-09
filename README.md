@@ -89,7 +89,7 @@ It's a funnel.
 
 
 <h3>Auto-Launcher</h3>
-Releases one marble every couple of seconds.  See it on [YouTube](https://youtu.be/TCUJiLz-vXs).
+Releases one marble every couple of seconds.  See it on <a href="https://youtu.be/TCUJiLz-vXs">YouTube</a>.
 
 Assemble auto-launcher + pole-base + lock-\<style\> 
 </td><td align="center">
