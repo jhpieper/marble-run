@@ -87,6 +87,14 @@ It's a funnel.
 <img width="195" src="/images/funnel.jpg">
 </td></tr><tr><td valign="top">
 
+
+<h3>Auto-Launcher</h3>
+Releases one marble every couple of seconds.  See it on [YouTube](https://youtu.be/TCUJiLz-vXs).
+
+Assemble auto-launcher + pole-base + lock-\<style\> 
+</td><td align="center">
+<img width="195" src="/images/auto-launcher.jpg">
+</td></tr><tr><td valign="top">
 <h3>Flipflop</h3>
 The flipflop diverts the marble left or right. 
 
